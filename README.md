@@ -1,5 +1,6 @@
 # langchain_llm_Capstone
 * 간단한 langchain 예시 코드
+* 모델: openai or huggingface
 
 ## to do
 * pdf 텍스트 추출
